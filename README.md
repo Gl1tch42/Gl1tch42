@@ -1,5 +1,6 @@
 # :octocat: Jean Michel | @Jeanmichelfc
-My name is Lucas Marins and I am a web/mobile developer working with Angular, React, Nodejs and .Net based back-end.
+My name is Jean Michel Fernades Carvalho, I am a web/mobile developer and student
+I'M working with Angular, React, Nodejs and .Net based back-end.
 
 ```js
 const me = {
