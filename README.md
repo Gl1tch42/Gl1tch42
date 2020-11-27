@@ -8,7 +8,7 @@ const me = {
   age: 20,
   company: 'INTCON',
   langs: ['TypeScript <3', 'JavaScript', 'C#'],//learning Python
-  likesToDo: ['Playing games ', 'watch series', 'Coding', 'lost a lot in voice calls'],
+  likesToDo: ['Playing games ', 'watch series', 'Coding', 'lost a lot time in voice calls'],
   favorite: {
     food: 'Pizza',
     color: 'black',
