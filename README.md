@@ -6,7 +6,7 @@ My name is Jean Michel Fernades Carvalho, I am a web/mobile developer and studen
 const me = {
   name: 'Jean Michel',
   age: 20,
-  company: 'INTCON',
+  company: 'FIRA',
   langs: ['TypeScript <3', 'JavaScript', 'C#'],//learning Python
   likesToDo: ['Playing games ', 'watch series', 'Coding', 'lost a lot time in voice calls'],
   favorite: {
