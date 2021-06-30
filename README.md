@@ -2,7 +2,7 @@
 My name is Jean Michel Fernades Carvalho, I am a web/mobile developer and student.
 <br>I'm working with Angular, React, Nodejs and .Net based back-end.
 
-```js
+```JavaScript
 const me = {
   name: 'Jean Michel',
   age: 21,
