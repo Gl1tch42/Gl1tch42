@@ -7,7 +7,7 @@ const me = {
   name: 'Jean Michel',
   age: 21,
   company: 'FIRA',
-  langs: ['JavaScript(TypeScript <3)', 'C#'],//learning Python
+  langs: ['JavaScript(TypeScript <3)', 'C#', 'java(kotlin)','python'],
   likesToDo: ['Playing games ', 'watch series', 'Coding', 'lost a lot time in voice calls'],
   favorite: {
     food: 'Pizza',
