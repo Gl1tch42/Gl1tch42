@@ -8,7 +8,7 @@ const me = {
   age: 21,
   company: 'WIPRO (ITAU)',
   langs: ['JavaScript(TypeScript <3)', 'C#', 'java(kotlin)','python'],
-  likesToDo: ['Playing games ', 'watch series', 'Coding', 'lost a lot time in voice calls'],
+  likesToDo: ['Playing games ', 'watch series', 'Coding', 'waste a lot of time in voice calls'],
   favorite: {
     food: 'Pizza',
     color: 'black',
