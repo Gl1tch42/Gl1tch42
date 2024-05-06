@@ -5,8 +5,8 @@ My name is Jean Michel Fernades Carvalho, I am a web/mobile developer and studen
 ```JavaScript
 const me = {
   name: 'Jean Michel',
-  age: 23,
-  company: 'WIPRO (ITAU)',
+  age: 24,
+  company: 'ZUP (ITAU)',
   langs: ['JavaScript(TypeScript <3)', 'C#', 'java','python'],
   likesToDo: ['Playing games ', 'watch series', 'Coding', 'waste a lot of time in voice calls'],
   favorite: {
