@@ -11,8 +11,8 @@ const me = {
   likesToDo: ['Playing games ', 'watch series', 'Coding', 'waste a lot of time in voice calls'],
   favorite: {
     food: 'Pizza',
-    color: 'black',
-    games: ['Cs 2'],
+    color: ['red','black'],
+    games: ['Cs 2','FM', 'L4D'],
     song: 'lofi currently'
   }
 }
