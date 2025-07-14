@@ -12,7 +12,7 @@ const me = {
   favorite: {
     food: 'Pizza',
     color: 'black',
-    games: ['Cs:go'],
+    games: ['Cs 2'],
     song: 'lofi currently'
   }
 }
